@@ -6,3 +6,4 @@
 ## _4 문서 분류(Document Classification)
 ## _5 의미 연결망 분석(Semantic Network Analysis)
 ## _6 토픽 모델링(Topic Modeling)
+## _12 RNN 인코더 디코더
